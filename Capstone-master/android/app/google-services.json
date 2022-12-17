@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943720778093",
+    "project_id": "skindetection-bc73d",
+    "storage_bucket": "skindetection-bc73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943720778093:android:8d0a08dabda781d7893264",
+        "android_client_info": {
+          "package_name": "com.example.detect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943720778093-f1n1q1bk81ae8dk80bt2fqsad6slb85m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwq4-H-VOlXMnomnRlJ54qx3MdUBdvxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943720778093-f1n1q1bk81ae8dk80bt2fqsad6slb85m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
